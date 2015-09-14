@@ -64,9 +64,7 @@ En [El Baúl del programador](http://elbauldelprogramador.com/mini-tutorial-y-ch
 
 ## Autor
 
-JJ Merelo ([Twitter](http://twitter.com/jjmerelo)/[GitHub](http://github.com/JJ)/[G+](https://plus.google.com/+JJMerelo/posts?rel=author)).
-
-![JJ Merelo](http://1.gravatar.com/avatar/dd366bcdcf85991fa8af1b6d11d3ad49)
+JJ Merelo ([Twitter](http://twitter.com/jjmerelo)/[GitHub](http://github.com/JJ)/[G+](https://plus.google.com/+JJMerelo/posts?rel=author)). ![JJ Merelo](http://1.gravatar.com/avatar/dd366bcdcf85991fa8af1b6d11d3ad49)
 
 ### Licencia
 
