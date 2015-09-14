@@ -54,6 +54,14 @@ pero a este nivel es suficiente con conocer esto. Es decir:
 >Este [vídeo de 14 minutos](https://www.youtube.com/watch?v=ygbWIJWe29Y)
 >sirve como introducción al uso de `git`.
 
+## Hazlo ya
+
+Instala git
+
+	sudo apt-get install git
+
+y ábrete una cuenta en [GitHub](http://github.com). Recuerda poner tus datos de contacto, ciudad y empresa o universidad, en el perfil para salir en [estos ránkings](http://github.com/JJ/top-github-users-data/).
+
 ## Mini tutorial y chuleta
 
 En [El Baúl del programador](http://elbauldelprogramador.com/mini-tutorial-y-chuleta-de-comandos-git/), con una lista extensa de comandos.
