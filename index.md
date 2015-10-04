@@ -23,7 +23,25 @@ despliegue de aplicaciones en la nube.
 >Esta
 [presentación sobre Git y su uso en GitHub](https://www.slideshare.net/jjmerelo/introduccin-al-uso-git-y-github-para-trabajo-colaborativo)
 >está más enfocada al uso general, pero las órdenes básicas que se usan
->para desplegar en la nube se tratan también. El [Zen de Git de Psicobyte](http://www.psicobyte.com/descargas/ZenDeGit.pdf) presenta de forma amena todos los conceptos del programa.
+>para desplegar en la nube se tratan también. El
+[Zen de Git de Psicobyte](http://www.psicobyte.com/descargas/ZenDeGit.pdf)
+presenta de forma amena todos los conceptos del programa.
+
+## Hazlo ya
+
+Instala git
+
+	sudo apt-get install git
+
+y ábrete una cuenta en [GitHub](http://github.com). Recuerda poner tus datos de contacto, ciudad y empresa o universidad, en el perfil para salir en [estos ránkings](http://github.com/JJ/top-github-users-data/).
+
+Resulta muy incómodo usar todo el tiempo el nombre de usuario y la
+clave, lo que ocurre si usas el URL `https` de GitHub, es decir,
+conexión a GitHub por HTTP. Crea
+[un par de claves pública y privada](https://help.github.com/articles/generating-ssh-keys/)
+y usa a partir de ese momento las conexiones vía SSH.
+
+## Ciclo básico
 
 El ciclo básico de uso de `git` consiste, tras la clonación, en hacer
 `pull` - modificar - `commit` - `push`. Este último sincroniza la
@@ -40,6 +58,9 @@ pero a este nivel es suficiente con conocer esto. Es decir:
 
 	#O en caso de tener varios repositorios origen
 	git pull origin master
+
+	#Si tu repositorio es un fork y has definido upstream
+	git pull upstream master
 	
 	#Añade un fichero al repo o al commit
 	git add _posts/un_post.md
@@ -53,14 +74,6 @@ pero a este nivel es suficiente con conocer esto. Es decir:
 
 >Este [vídeo de 14 minutos](https://www.youtube.com/watch?v=ygbWIJWe29Y)
 >sirve como introducción al uso de `git`.
-
-## Hazlo ya
-
-Instala git
-
-	sudo apt-get install git
-
-y ábrete una cuenta en [GitHub](http://github.com). Recuerda poner tus datos de contacto, ciudad y empresa o universidad, en el perfil para salir en [estos ránkings](http://github.com/JJ/top-github-users-data/).
 
 ## Mini tutorial y chuleta
 
